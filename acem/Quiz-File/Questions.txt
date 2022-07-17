@@ -1,0 +1,21 @@
+1. Who is the founder of Apple computer?
+(a) Stephen Fry  (b) Bill Gates  (c) Steve Jobs  (d) Stephen Hawking :
+2. What is the full form of 'www'?
+(a) World Wide Web (b) Wide Width Wickets (c) World Wide Weather (d) Western Washington World :
+3. Who invented flexible photographic film?
+(a) Leonardo da Vinci (b) Linda Eastman (c) Louis Daguerre (d) George Eastman :
+4. What is the size of float variable?
+(a) 8 bit (b) 16 bit (c) 32 bit (d) 64 bit :
+5. Which method can be used to find the length of a string in Java?
+(a) length() (b) getlength() (c) len() (d) getsize() :
+6. Which data structure uses LIFO?
+(a) array (b) int (c) stacks (d) queues :
+7. What does this equation mean? a != t
+(a) a is assigned to t (b) a and t are equal (c) a is not equal to t (d) t is added to a :
+8. What is FIFO?
+(a) First In Few Out (b) Few In Few Out (c) Few In First Out (d) First In First Out :
+9. Which of the following is not a computer code related to program execution?
+(a) Source code (b) Byte code (c) Machine code (d) Hex code :
+10. Which of the follwing is not a programming language?
+(a) TypeScript (b) Python (c) Anaconda (d) Java
+ 
